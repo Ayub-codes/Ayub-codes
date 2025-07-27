@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,UI/UX**
 
-- 📫 How to reach me **mohammadayub@gmail.com**
+- 📫 How to reach me **mohammadayub1694@gmail.com**
 
 - ⚡ Fun fact **Best Learner**
 
