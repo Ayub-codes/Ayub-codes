@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ayub</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
-<img src="https://tse3.mm.bing.net/th/id/OIP.lbDMlFEVsZGZjmJiRnxBuwHaEJ?pid=Api&P=0&h=220" width="450px" align="right">
+<img src="https://tse3.mm.bing.net/th/id/OIP.MR0WID9fkHKjlL8OpcDFbQHaEO?pid=Api&P=0&h=220" width="450px" align="right">
 
 - 🌱 I’m currently learning **frontend development**
 
